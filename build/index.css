@@ -1,0 +1,23 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/index.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+#rsl-stop-search-spam-settings {
+  max-width: 800px;
+}
+#rsl-stop-search-spam-settings h1 {
+  padding-bottom: 8px;
+}
+#rsl-stop-search-spam-settings .components-notice, #rsl-stop-search-spam-settings .components-notice__content {
+  margin: 0;
+}
+#rsl-stop-search-spam-settings .components-notice-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+#rsl-stop-search-spam-settings .components-panel {
+  margin-bottom: 8px;
+}
+
+/*# sourceMappingURL=index.css.map*/

@@ -1,0 +1,24 @@
+#rsl-stop-search-spam-settings {
+	max-width: 800px;
+
+	h1 {
+		padding-bottom: 8px;
+	}
+
+	.components-notice {
+		&, &__content {
+			margin: 0;
+		}
+	}
+
+	.components-notice-list {
+		display: flex;
+		flex-direction: column;
+		gap: 8px;
+		margin-bottom: 16px;
+	}
+
+	.components-panel {
+		margin-bottom: 8px;
+	}
+}
